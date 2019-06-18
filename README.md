@@ -11,6 +11,6 @@ Week 4 has the following two submissions:
 
 Week 5 has the following two submissions:
 
-(a)
+(a) Capstone_Project---The_Battle_of_Neighborhoods_Week2_Part_1_NotebookCode
 
-(b)
+(b) Capstone_Project---The_Battle_of_Neighborhoods_Week2_Part_2_Report
